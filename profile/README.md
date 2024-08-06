@@ -4,7 +4,7 @@
 
 
 ## 👀 살펴보기
-- [💬 게시판](https://github.com/orgs/SSCC-space/discussions)
+- [💬 게시판](https://github.com/orgs/SoongSilComputingClub/discussions)
 
 ## 🌈 가이드라인
 - 작성 예정
